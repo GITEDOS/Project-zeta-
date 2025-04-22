@@ -105,7 +105,7 @@ Shift from generic promos to data-driven, targeted marketing campaigns (consider
 ![2025-04-22 (3)](https://github.com/user-attachments/assets/7449dcb9-9447-4775-95dc-e2b15e49873c)
 
 ## 📎 Files Included
-- `Retail_Performance_Case_Study.pdf` – Final report
+- `Retail_Performance_Case_Study.docx` – Final report
 - `Sales_Data_2023_2024.xlsx` – Cleaned dataset
 - `README.md` – This file
 
